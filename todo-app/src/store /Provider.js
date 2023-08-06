@@ -99,7 +99,7 @@ export default class Provider extends Component {
 					deleteTodo: async (id) => {
 						// OUR APPLICATION DOESN'T NEED TO HAVE THIS
 						// TOO SIMPLE TO IMPLEMENT THO :))
-						//TRY IT OUT YOUR SELF 
+
 					},
 					getAllTodos: async () => {
 						try {
