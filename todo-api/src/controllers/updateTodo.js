@@ -1,5 +1,5 @@
 const Todos = require('../models').Todos;
-const Op = require('Sequelize').Op
+const Op = require('sequelize').Op
 
 module.exports = (req, res) => {
 	if (req.body.todo_id !== null) {
